@@ -10,6 +10,7 @@
 </div>
  </div>
 </div>
+<br>
 </body>
 @include('footer')
 </html>

@@ -57,7 +57,7 @@
   </ul>
 </div>
 <div class="nav-bar-right">
-  <img src="{{ asset('img/main_page/image002.jpg') }}" alt="" height="332px" width="1460px" />
+  <img src="{{ asset('img/main_page/image002.jpg') }}" alt="" height="332px" width="1170px" />
 </div>
   <div class="products">
 <h2>@lang('welcome.product')</h2>

@@ -65,8 +65,6 @@
  </div>
 </div>
 <script>
-
-
         $(".update-cart").click(function (e) {
            e.preventDefault();
 

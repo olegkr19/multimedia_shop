@@ -4,7 +4,6 @@
 }
 html,body{
   height: 100%;
-  width: auto;
   overflow-x:hidden;
 }
 .main_container{
@@ -33,17 +32,17 @@ h1,h2{
 }
 .site-nav li{
 display: inline-block;
-padding: 0 0 0 260px;
+padding: 0 0 0 250px;
 background-color: inherit;
 color: #5a5958;
 font-size: .83em;
 font-weight: 800;
 text-transform: uppercase;
-margin-left: 80px;
+/*margin-left: 80px;*/
 }
-.dropdown{
-  text-align: right;
-}
+/*.dropdown{
+  text-align: left;
+}*/
 .site-nav li a{
   text-decoration: none;
 }
@@ -97,7 +96,7 @@ letter-spacing: 0.1em;
 }
 .footer-block-content{
   padding-bottom: 0;
-  margin-bottom: 1.17188rem;
+  /*margin-bottom: 1.17188rem;*/
   font-size:0.87891rem;
 }
 .footer-block-content p{
@@ -110,15 +109,11 @@ letter-spacing: 0.1em;
   float:left;
 }
 .laptops{
-  margin-right: 200px;
+  margin-right: 0px;
   margin-top: 20px;
 }
-/*.products-bottom{
-  display: inline-block;
-  margin-left: 500px;
-}*/
 .cameras{
-  margin-left: 400px;
+  margin-left: 330px;
   margin-top: -290px;
 }
 img.animate:hover{
@@ -126,7 +121,7 @@ img.animate:hover{
   opacity: 0.25;/* прозрачность для других браузеров */
 }
 .flashdrivers{
-  margin-left: 400px;
+  margin-left: 350px;
   margin-top: -280px;
 }
 .headphones{
@@ -136,12 +131,12 @@ img.animate:hover{
 }
 .smartphones{
   position: absolute;
-  margin-left: 750px;
+  margin-left: 680px;
   margin-top: 370px;
 }
 .tv{
   position: absolute;
-  margin-left: 1130px;
+  margin-left: 1000px;
   margin-top: 370px;
 }
 .product-brands h2{
@@ -173,7 +168,7 @@ img.animate:hover{
   text-align: center;
   width: 200px;
   margin-top: -370px;
-  margin-left: 200px;
+  margin-left: 100px;
 }
 .customer_2{
   position: absolute;
@@ -182,7 +177,7 @@ img.animate:hover{
   display: block;
   text-align: center;
   width: 200px;
-  margin-left: 410px;
+  margin-left: 310px;
   margin-top: -370px;
 }
 .customer_3{
@@ -192,7 +187,7 @@ img.animate:hover{
   display: block;
   text-align: center;
   width: 200px;
-  margin-left: 620px;
+  margin-left: 520px;
   margin-top: -370px;
 }
 .customer_4{
@@ -202,7 +197,7 @@ img.animate:hover{
   display: block;
   text-align: center;
   width: 200px;
-  margin-left: 830px;
+  margin-left: 730px;
   /*height: 520px;*/
   margin-top: -370px;
 }
@@ -213,7 +208,7 @@ img.animate:hover{
   display: block;
   text-align: center;
   width: 200px;
-  margin-left: 1040px;
+  margin-left: 940px;
   margin-top: -370px;
   /*height: 220px;*/
 }
